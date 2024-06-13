@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332563196298",
+    "project_id": "fireprojek",
+    "storage_bucket": "fireprojek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332563196298:android:1382bbc7ff784d4a3b4073",
+        "android_client_info": {
+          "package_name": "com.example.medical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCU4S3EdwSvWL5gVNKcwWDqxB6TLh6Bek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
