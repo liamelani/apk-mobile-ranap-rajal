@@ -2,7 +2,12 @@ Medical
 
 Aplikasi mobile RANAP dan RAJAL adalah aplikasi yang digunakan dalam sistem informasi rumah sakit untuk manajemen layanan rawat inap (RANAP) dan rawat jalan (RAJAL), dimana apk ini dapat mengelola data pasien , data dokter, data obat , data kamar dll
 berikut adalah tampilan apk yang telah di buat:
-![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/e890aba3-f566-43ac-a86b-58c39eed7174)
+![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/ad818355-78b1-41b6-bdd1-2a59dc028998)
+![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/6e8748d7-13bb-4e99-8d92-5dd5512d59ee)
+![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/dadb9942-2f9f-4e06-9e7a-d04ff98f5f0a)
+![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/bedd2da6-567a-4262-9041-475897fef5c1)
+![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/7b8a75f8-04eb-4e41-89c3-29df98dc6bfc)
+
 
 
 
