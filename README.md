@@ -7,6 +7,10 @@ berikut adalah tampilan apk yang telah di buat:
 ![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/dadb9942-2f9f-4e06-9e7a-d04ff98f5f0a)
 ![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/bedd2da6-567a-4262-9041-475897fef5c1)
 ![image](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/7b8a75f8-04eb-4e41-89c3-29df98dc6bfc)
+![WhatsApp Image 2024-06-21 at 12 59 15](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/f366f7a3-3588-4dd4-9fc1-008707d9971d)
+![WhatsApp Image 2024-06-21 at 12 57 49](https://github.com/liamelani/apk-mobile-ranap-rajal/assets/172555844/c8dedc9e-67eb-4f5a-8f52-0f33510dcd37)
+
+
 
 
 
